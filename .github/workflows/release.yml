@@ -14,5 +14,5 @@ jobs:
     uses: ryansonshine/ryansonshine/.github/workflows/release.yml@main
     secrets:
       NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN 
+      GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
      
