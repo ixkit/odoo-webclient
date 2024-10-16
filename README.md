@@ -85,7 +85,7 @@ const request = await clientManager.login(user,password,true).subscribe(
 
 ```
 ## Example App
-[Odoo Site App](https://github.com/icoco/vue3-vant4-mobile)
+[Odoo Site App](https://github.com/icoco/odoo-site-app)
 
 ## APIs
 - ### Core class: IClientMananger
