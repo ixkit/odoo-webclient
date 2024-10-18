@@ -154,7 +154,7 @@ function reloadData(){
 ```
 - ### IClientMananger.logout
   ***logout() Observable<  ApiResponse >***  
-Logout feature, exist session.
+Logout feature, quit session.
  
 
 ## Backend Services Required
